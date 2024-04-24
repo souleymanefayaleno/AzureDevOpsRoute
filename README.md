@@ -80,7 +80,7 @@
 * Authoring, Running, and Analyzing Manual Tests
 * Azure Test and Feedback extension
 ## Part 07: Basic Project Artifacts with Azure Artifacts
-* Note: In this video, we will use a ✔ Nike Landing page as a sample application for CICD using Azure Artifacts
+* Note: In this video, we will use a Nike Landing page as a sample application for CICD using Azure Artifacts
 * Overview of Azure Artifacts
 * Create the Azure DevOps project and check out the application code
 * Set up the infra using Azure Web App
