@@ -1,6 +1,6 @@
 # Azure-DevOps-Complete-Route
 
-## Part 0 : What the Azure Cloud allows you to do
+## Part 00 : What the Azure Cloud allows you to do
 * Develop and deploy scalable cloud-native applications
 * Create and manage infrastructure using cloud services such as networking, storage, and virtual machines
 * Create IoT and edge solutions to improve operational efficiency or the quality of connected products and services
@@ -14,7 +14,7 @@
 * Migrate infrastructure, application, and data workloads from on-premises data centers or other clouds to Azure
 * Discover new cloud skills to achieve what you want today and in the future
 
-## Part 1: Azure DevOps Basic Concepts
+## Part 01: Azure DevOps Basic Concepts
 * What is Cloud Computing
 * IaaS VS. PaaS VS. SaaS
 * What is a Shared Responsibility Model
@@ -29,7 +29,7 @@
 * Creating an Azure DevOps Project
 * Azure DevOps Pricing
 * Azure DevOps hosting options: Azure DevOps Services VS Azure DevOps Server
-## Part 2: Azure Boards and Agile Project Management 
+## Part 02: Azure Boards and Agile Project Management 
 * What are Azure DevOps Boards
 * What are Azure board processes, agile, scrum, basic, and CMMI
 * Managing work items in Azure boards
@@ -43,7 +43,7 @@
 * Customizing dashboards
 * Work item query
 * Customizing team process
-## Part 3: Git (VCS) and Source Control Management (SCM) in Azure DevOps 
+## Part 03: Git (VCS) and Source Control Management (SCM) in Azure DevOps 
 * Introduction to Source Control and Azure Repos
 * Git vs TFVC
 * Configure Visual Code
@@ -55,7 +55,7 @@
 * Managing repository
 * Managing Pull requests
 * Sample application code
-## Part 4: Build Pipeline
+## Part 04: Build Pipeline
 * Note: For the demo, we will be using the YouTube Clone website
 * Provision Azure App Service to host the website.
 * Creating Build Pipelines using the classic editor
@@ -64,14 +64,14 @@
 * Creating a multi-stage CICD pipeline
 * variables, triggers, Build properties, agents
 * Publishing and Download Build Artifacts
-## Part 5: Continuous Delivery with Azure DevOps Release Pipeline
+## Part 05: Continuous Delivery with Azure DevOps Release Pipeline
 * Note: this is a continuation of the previous video.
 * Automating Deployment with a multi-stage Release Pipelines
 * Continuous Deployment Triggers
 * Continuous delivery using deployment slots to enable Blue-Green deployment
 * Deployment gates such as Query Work Items and Approvals before the prod deployment
 * Update the code to test the entire CICD process with the Build and Release pipeline
-## Part 6: Azure Test Plans and Testing
+## Part 06: Azure Test Plans and Testing
 * Note: We will be using the Youtube Clone website to implement the below steps
 * Azure Test Plan Overview
 * Features of Azure test plan
@@ -79,7 +79,7 @@
 * Subscribe to the test plan free trial
 * Authoring, Running, and Analyzing Manual Tests
 * Azure Test and Feedback extension
-## Part 7: Basic Project Artifacts with Azure Artifacts
+## Part 07: Basic Project Artifacts with Azure Artifacts
 * Note: In this video, we will use a ✔ Nike Landing page as a sample application for CICD using Azure Artifacts
 * Overview of Azure Artifacts
 * Create the Azure DevOps project and check out the application code
@@ -89,7 +89,7 @@
 * Create the CD pipeline that consumes the package
 * Promote the package to trigger the release pipeline
 * Upstream packages in Azure Artifacts
-## Part 8: Infrastructure as Code (IaC) with Terraform and Azure DevOps
+## Part 08: Infrastructure as Code (IaC) with Terraform and Azure DevOps
 * Introduction to IaC and Tools
 * Various Terraform commands and workflow
 * Creating Terraform configuration files
@@ -97,7 +97,7 @@
 * Executing Terraform commands using CLI
 * Azure DevOps CI Pipeline to init, plan, and archive the plan file
 * Azure DevOps CD pipeline to apply the changes
-## Part 9: Self Hosted agents on Azure Virtual machine scale sets
+## Part 09: Self Hosted agents on Azure Virtual machine scale sets
 * Microsoft-hosted vs. self-hosted agents
 * Use case of self-hosted agents
 * Ways to set up self-hosted agents: VM, VMSS, container
